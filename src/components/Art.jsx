@@ -17,7 +17,7 @@ const Art = () => {
                 end: 'bottom center',
                 scrub: 1.5, // Follow the scroll with some delay
                 pin: true,
-                markers: true
+                // markers: true
             }
         })
 
